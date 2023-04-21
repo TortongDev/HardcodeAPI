@@ -4,6 +4,8 @@ header("Access-Control-Allow-Origin: *");
 
 $json = array(
     "customer" => array(
+        array(),
+        array(),
         array(
             "customerName"      => "Kittithat",
             "customerAge"       => "26",
