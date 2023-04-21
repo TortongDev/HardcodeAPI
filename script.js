@@ -9,5 +9,3 @@ fetch('getAPI.php')
 .catch((err)=>{
     console.log(err);
 })
-
-sss
