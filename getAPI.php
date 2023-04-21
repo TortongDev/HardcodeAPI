@@ -15,8 +15,15 @@ $json = array(
             "customerAge"       => "26",
             "customerHeight"    => "171",
             "customerWidth"     => "62",
-            "customerID"        => 0001
-        )        
+            "customerID"        => 0002
+        ),       
+        array(
+            "customerName"      => "Kittithat2",
+            "customerAge"       => "26",
+            "customerHeight"    => "171",
+            "customerWidth"     => "62",
+            "customerID"        => 0003
+        ) 
     )
 );
 
